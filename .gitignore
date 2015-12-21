@@ -26,3 +26,6 @@
 *.exe
 *.out
 *.app
+
+# Detritus
+.DS_Store
