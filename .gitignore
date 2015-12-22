@@ -16,6 +16,9 @@
 # Fortran module files
 *.mod
 
+# Debug folder
+Debug
+
 # Compiled Static libraries
 *.lai
 *.la
