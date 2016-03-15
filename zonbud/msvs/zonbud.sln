@@ -1,18 +1,26 @@
 ﻿
-Microsoft Visual Studio Solution File, Format Version 11.00
-# Visual Studio 2010
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30723.0
+MinimumVisualStudioVersion = 10.0.40219.1
 Project("{6989167D-11E4-40FE-8C1A-2192A86A7E90}") = "zonbud", "zonbud.vfproj", "{9C3C4CBC-1966-4ABB-9CCF-C08E23F3267E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
+		Debug|x64 = Debug|x64
 		Release|Win32 = Release|Win32
+		Release|x64 = Release|x64
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{9C3C4CBC-1966-4ABB-9CCF-C08E23F3267E}.Debug|Win32.ActiveCfg = Debug|Win32
 		{9C3C4CBC-1966-4ABB-9CCF-C08E23F3267E}.Debug|Win32.Build.0 = Debug|Win32
+		{9C3C4CBC-1966-4ABB-9CCF-C08E23F3267E}.Debug|x64.ActiveCfg = Debug|x64
+		{9C3C4CBC-1966-4ABB-9CCF-C08E23F3267E}.Debug|x64.Build.0 = Debug|x64
 		{9C3C4CBC-1966-4ABB-9CCF-C08E23F3267E}.Release|Win32.ActiveCfg = Release|Win32
 		{9C3C4CBC-1966-4ABB-9CCF-C08E23F3267E}.Release|Win32.Build.0 = Release|Win32
+		{9C3C4CBC-1966-4ABB-9CCF-C08E23F3267E}.Release|x64.ActiveCfg = Release|x64
+		{9C3C4CBC-1966-4ABB-9CCF-C08E23F3267E}.Release|x64.Build.0 = Release|x64
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

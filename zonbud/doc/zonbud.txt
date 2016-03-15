@@ -21,6 +21,9 @@ METHOD
        cells in each specified zone.
 
 HISTORY
+       Version 3.02 XX/XX/2016 -- added support for SWI2 to apply face
+          flow correction terms.
+       
        Version 3.01 12/18/2009 -- updated to fix a problem in the csv2
           output file when a simulation has both transient and
           steady-state stress periods.  In this situation, the STORAGE

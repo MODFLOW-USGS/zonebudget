@@ -25,7 +25,26 @@ Debug
 *.a
 *.lib
 
+# Compiler files and directories
+*.suo
+Debug/
+Release/
+
 # Executables
+*.exe
+
+# MODFLOW type files
+*.user
+*.cbc
+*.cbb
+*.hds
+*.ddn
+*.zta
+*.zobs
+*.out
+*.lst
+*.list
+
 
 # Detritus
 .DS_Store
