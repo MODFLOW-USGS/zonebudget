@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{6989167D-11E4-40FE-8C1A-2192A86A7E90}") = "zonbud", "zonbud.vfproj", "{9C3C4CBC-1966-4ABB-9CCF-C08E23F3267E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9C3C4CBC-1966-4ABB-9CCF-C08E23F3267E}.Debug|Win32.ActiveCfg = Debug|Win32
+		{9C3C4CBC-1966-4ABB-9CCF-C08E23F3267E}.Debug|Win32.Build.0 = Debug|Win32
+		{9C3C4CBC-1966-4ABB-9CCF-C08E23F3267E}.Release|Win32.ActiveCfg = Release|Win32
+		{9C3C4CBC-1966-4ABB-9CCF-C08E23F3267E}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
