@@ -27,6 +27,7 @@ Debug
 
 # Compiler files and directories
 *.suo
+*.u2d
 Debug/
 Release/
 
